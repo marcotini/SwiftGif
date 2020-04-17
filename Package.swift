@@ -9,7 +9,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "SwiftGifOrigin",
+            name: "SwiftGif",
             targets: ["SwiftGif"]),
     ],
     dependencies: [
